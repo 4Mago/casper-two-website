@@ -1,3 +1,3 @@
 [submodule "themes/casper-two"]
 	path = themes/casper-two
-	url = "https://github.com/eueung/hugo-casper-two"
+	url = "https://github.com/eueung/hugo-casper-two/tree/b747d89e76635d9252089e93268b2209d85571db"
